@@ -1,7 +1,7 @@
 {
   "name": "android",
   "main": "./lib/android",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Android development package for Atom",
   "keywords": [
     "android",
