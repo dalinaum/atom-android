@@ -1,1 +1,3 @@
-# atom-android
+# Atom Android
+
+Android development package

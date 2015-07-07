@@ -1,0 +1,22 @@
+{
+  "name": "android",
+  "main": "./lib/android",
+  "version": "0.0.0",
+  "description": "Android development package for Atom",
+  "keywords": [
+    "android",
+    "atom"
+  ],
+  "activationCommands": {
+    "atom-workspace": "android:build-gradle"
+  },
+  "repository": "https://github.com/dalinaum/atom-android",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "ansi-html-stream": "^0.0.3",
+    "atom-space-pen-views": "^2.0.3"
+  }
+}
